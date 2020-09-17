@@ -10,7 +10,7 @@
         <div class="contenedor">
             <h1>Aprendiendo PHP</h1>
             <div class="contenido">
-            
+                
                 <?php // Ejercicio 1 y 2
                     echo "Ej 1 y 2" . "<br>";
 
@@ -35,13 +35,6 @@
                     if(0 == 0) {
                         $variable = 1;
                     }
-                    elseif() {
-                        
-                    }
-                    else {
-
-                    }
-
 
 
                     if($variable >= 100 && $variable <= 300) {
